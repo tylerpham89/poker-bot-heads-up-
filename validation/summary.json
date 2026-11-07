@@ -1,0 +1,130 @@
+[
+  {
+    "opponent": "always_half",
+    "seed": "42",
+    "hands": 2000,
+    "bb_per_deal": 12.134,
+    "ci95": [
+      10.737096031601554,
+      13.530903968398446
+    ],
+    "thinking_seconds": [
+      2.064004,
+      1.989052
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "always_half-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "7",
+    "hands": 2000,
+    "bb_per_deal": 11.484,
+    "ci95": [
+      10.06997413797028,
+      12.89802586202972
+    ],
+    "thinking_seconds": [
+      2.057253,
+      3.044381
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "always_half-seed7-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "42",
+    "hands": 2000,
+    "bb_per_deal": 7.453,
+    "ci95": [
+      5.842551461486335,
+      9.063448538513665
+    ],
+    "thinking_seconds": [
+      2.338298,
+      2.224374
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "always_pot-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "7",
+    "hands": 2000,
+    "bb_per_deal": 7.043,
+    "ci95": [
+      5.416048662948171,
+      8.66995133705183
+    ],
+    "thinking_seconds": [
+      2.325857,
+      2.343486
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "always_pot-seed7-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "42",
+    "hands": 2000,
+    "bb_per_deal": 9.501,
+    "ci95": [
+      8.635289747779778,
+      10.366710252220221
+    ],
+    "thinking_seconds": [
+      3.33256,
+      4.062009
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "calling_station-seed42-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "7",
+    "hands": 2000,
+    "bb_per_deal": 8.966,
+    "ci95": [
+      8.12313214622378,
+      9.808867853776219
+    ],
+    "thinking_seconds": [
+      2.880272,
+      4.202139
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "calling_station-seed7-deals1000.json"
+  },
+  {
+    "opponent": "random",
+    "seed": "42",
+    "hands": 2000,
+    "bb_per_deal": 6.0415,
+    "ci95": [
+      4.714599044860865,
+      7.368400955139135
+    ],
+    "thinking_seconds": [
+      2.178095,
+      2.693908
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "random-seed42-deals1000.json"
+  },
+  {
+    "opponent": "random",
+    "seed": "7",
+    "hands": 2000,
+    "bb_per_deal": 7.7455,
+    "ci95": [
+      6.440937790534324,
+      9.050062209465676
+    ],
+    "thinking_seconds": [
+      2.218505,
+      2.158259
+    ],
+    "verdict": "AGENT1_WIN",
+    "result_file": "random-seed7-deals1000.json"
+  }
+]

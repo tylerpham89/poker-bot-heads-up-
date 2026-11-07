@@ -1,0 +1,9 @@
+  ok  GET / answered after 0.0 s: Datathon2026 / PocketEdge
+  ok  POST /new-half worked
+  ok  /act preflop, button to act: CHECK_CALL in 16 ms
+  ok  /act preflop, facing a pot raise: CHECK_CALL in 14 ms
+  ok  /act flop, first to act: CHECK_CALL in 19 ms
+  ok  /act flop, facing an all-in (only FOLD or CHECK_CALL): CHECK_CALL in 16 ms
+  ok  /act river, facing a half-pot bet: CHECK_CALL in 4 ms
+  ok  POST /hand-end worked
+SMOKE TEST PASSED

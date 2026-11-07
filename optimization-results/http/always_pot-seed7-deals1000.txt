@@ -1,0 +1,23 @@
+waiting for agent1 at http://127.0.0.1:15008 ...
+waiting for agent2 at http://127.0.0.1:15009 ...
+agent1 = Datathon2026 / PocketEdge v2 (http://127.0.0.1:15008)
+agent2 = Challenges Team / AlwaysPot (http://127.0.0.1:15009)
+
+Duplicate match: 1000 deals (2000 hands), seed 7
+agent1: +6.881 bb/deal  (std 25.70, stderr 0.813)
+Confidence interval (z=1.96): [+5.288, +8.474] bb/deal
+Reason: interval [+5.288, +8.474] is entirely above 0
+half1: agent1 +10418 chips, agent2 -10418 chips
+half2: agent1 +3344 chips, agent2 -3344 chips
+Faults:
+  agent1 half1: thinking 1.21s of 8s (wall 4.20s), calls 3513, errors 0
+  agent1 half2: thinking 1.07s of 8s (wall 4.01s), calls 3537, errors 0
+  agent2 half1: thinking 0.13s of 8s (wall 2.06s), calls 2636, errors 0
+  agent2 half2: thinking 0.10s of 8s (wall 1.97s), calls 2647, errors 0
+Speed: 2000 hands in 13.23s (151 hands/s)
+
+============================================================
+  VERDICT: AGENT1 WINS  (Datathon2026 / PocketEdge v2 (http://127.0.0.1:15008))
+  Points: agent1 1, agent2 0
+============================================================
+RESULT: AGENT1_WIN

@@ -1,0 +1,162 @@
+[
+  {
+    "opponent": "always_half",
+    "seed": "42",
+    "deals": 1000,
+    "bb_per_deal": 12.106,
+    "ci95": [
+      10.708701440977826,
+      13.503298559022173
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      6.918679,
+      7.72442
+    ],
+    "exhausted_halves": 0,
+    "skipped_calls": 0,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "always_half-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "7",
+    "deals": 1000,
+    "bb_per_deal": 11.3095,
+    "ci95": [
+      9.879575948531333,
+      12.739424051468667
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      8.003848,
+      6.753969
+    ],
+    "exhausted_halves": 1,
+    "skipped_calls": 36,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "always_half-seed7-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "42",
+    "deals": 1000,
+    "bb_per_deal": 6.902,
+    "ci95": [
+      5.271986860387651,
+      8.53201313961235
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      5.367415,
+      6.920322
+    ],
+    "exhausted_halves": 0,
+    "skipped_calls": 0,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "always_pot-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "7",
+    "deals": 1000,
+    "bb_per_deal": 6.547,
+    "ci95": [
+      4.893076028104553,
+      8.200923971895447
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      5.009161,
+      5.684865
+    ],
+    "exhausted_halves": 0,
+    "skipped_calls": 0,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "always_pot-seed7-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "42",
+    "deals": 1000,
+    "bb_per_deal": 7.35,
+    "ci95": [
+      6.535016075988982,
+      8.164983924011018
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      8.01041,
+      8.01925
+    ],
+    "exhausted_halves": 2,
+    "skipped_calls": 960,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "calling_station-seed42-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "7",
+    "deals": 1000,
+    "bb_per_deal": 8.6425,
+    "ci95": [
+      7.79303550360204,
+      9.49196449639796
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      8.009636,
+      7.897554
+    ],
+    "exhausted_halves": 1,
+    "skipped_calls": 319,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "calling_station-seed7-deals1000.json"
+  },
+  {
+    "opponent": "random",
+    "seed": "42",
+    "deals": 1000,
+    "bb_per_deal": 6.987,
+    "ci95": [
+      5.66794950264056,
+      8.30605049735944
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      6.351586,
+      5.332826
+    ],
+    "exhausted_halves": 0,
+    "skipped_calls": 0,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "random-seed42-deals1000.json"
+  },
+  {
+    "opponent": "random",
+    "seed": "7",
+    "deals": 1000,
+    "bb_per_deal": 7.827,
+    "ci95": [
+      6.513097438051095,
+      9.140902561948906
+    ],
+    "verdict": "AGENT1_WIN",
+    "thinking_seconds": [
+      5.301829,
+      6.45262
+    ],
+    "exhausted_halves": 0,
+    "skipped_calls": 0,
+    "errors": 0,
+    "forfeits": 0,
+    "result_file": "random-seed7-deals1000.json"
+  }
+]

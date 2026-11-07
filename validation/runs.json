@@ -1,0 +1,50 @@
+[
+  {
+    "opponent": "random",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 6.0415,
+    "thinking_seconds": [
+      2.178095,
+      2.693908
+    ],
+    "result_file": "random-seed42-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 9.501,
+    "thinking_seconds": [
+      3.33256,
+      4.062009
+    ],
+    "result_file": "calling_station-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 12.134,
+    "thinking_seconds": [
+      2.064004,
+      1.989052
+    ],
+    "result_file": "always_half-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 7.453,
+    "thinking_seconds": [
+      2.338298,
+      2.224374
+    ],
+    "result_file": "always_pot-seed42-deals1000.json"
+  }
+]

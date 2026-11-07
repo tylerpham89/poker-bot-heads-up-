@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+starter/
+validation/*.log
+comparison-results/*.log
+archive-v1/
+optimization-results/*.log
+optimization-results/*.npz
+native/*.pdb
+native/*.lib

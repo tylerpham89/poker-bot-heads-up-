@@ -1,0 +1,9 @@
+opponent,seed,bb_per_deal,verdict,exhausted_halves,skipped_calls,errors,forfeits
+always_half,42,12.106,AGENT1_WIN,0,0,0,0
+always_half,7,11.3095,AGENT1_WIN,1,36,0,0
+always_pot,42,6.902,AGENT1_WIN,0,0,0,0
+always_pot,7,6.547,AGENT1_WIN,0,0,0,0
+calling_station,42,7.35,AGENT1_WIN,2,960,0,0
+calling_station,7,8.6425,AGENT1_WIN,1,319,0,0
+random,42,6.987,AGENT1_WIN,0,0,0,0
+random,7,7.827,AGENT1_WIN,0,0,0,0

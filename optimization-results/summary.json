@@ -1,0 +1,192 @@
+[
+  {
+    "opponent": "always_half",
+    "seed": "42",
+    "bb_per_deal": 10.799,
+    "ci95": [
+      9.402742333310147,
+      12.195257666689852
+    ],
+    "thinking_seconds": [
+      0.905949,
+      0.787372
+    ],
+    "opponent_thinking_seconds": [
+      0.067106,
+      0.055571
+    ],
+    "result_file": "optimization-results/http/always_half-seed42-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "7",
+    "bb_per_deal": 10.667,
+    "ci95": [
+      9.258879128339187,
+      12.075120871660813
+    ],
+    "thinking_seconds": [
+      1.4071,
+      2.039474
+    ],
+    "opponent_thinking_seconds": [
+      0.212506,
+      0.372851
+    ],
+    "result_file": "optimization-results/http/always_half-seed7-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "42",
+    "bb_per_deal": 7.184,
+    "ci95": [
+      5.582475132165381,
+      8.785524867834619
+    ],
+    "thinking_seconds": [
+      0.86748,
+      0.999171
+    ],
+    "opponent_thinking_seconds": [
+      0.040842,
+      0.102838
+    ],
+    "result_file": "optimization-results/http/always_pot-seed42-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "7",
+    "bb_per_deal": 6.881,
+    "ci95": [
+      5.2879920895032235,
+      8.474007910496777
+    ],
+    "thinking_seconds": [
+      1.21435,
+      1.068999
+    ],
+    "opponent_thinking_seconds": [
+      0.134273,
+      0.104263
+    ],
+    "result_file": "optimization-results/http/always_pot-seed7-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "42",
+    "bb_per_deal": 12.425,
+    "ci95": [
+      11.401243389179735,
+      13.448756610820267
+    ],
+    "thinking_seconds": [
+      2.464709,
+      1.389243
+    ],
+    "opponent_thinking_seconds": [
+      0.316345,
+      0.099812
+    ],
+    "result_file": "optimization-results/http/calling_station-seed42-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "7",
+    "bb_per_deal": 11.134,
+    "ci95": [
+      10.135612258131385,
+      12.132387741868616
+    ],
+    "thinking_seconds": [
+      1.814913,
+      1.227964
+    ],
+    "opponent_thinking_seconds": [
+      0.191444,
+      0.042464
+    ],
+    "result_file": "optimization-results/http/calling_station-seed7-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "random",
+    "seed": "42",
+    "bb_per_deal": 6.8585,
+    "ci95": [
+      5.525639227089204,
+      8.191360772910796
+    ],
+    "thinking_seconds": [
+      1.041688,
+      1.456013
+    ],
+    "opponent_thinking_seconds": [
+      0.059398,
+      0.184848
+    ],
+    "result_file": "optimization-results/http/random-seed42-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "random",
+    "seed": "7",
+    "bb_per_deal": 6.393,
+    "ci95": [
+      5.092947339820098,
+      7.693052660179902
+    ],
+    "thinking_seconds": [
+      1.259278,
+      0.983252
+    ],
+    "opponent_thinking_seconds": [
+      0.178267,
+      0.058586
+    ],
+    "result_file": "optimization-results/http/random-seed7-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "v1",
+    "seed": "1009",
+    "bb_per_deal": 1.88,
+    "ci95": [
+      1.2416545340539389,
+      2.518345465946061
+    ],
+    "thinking_seconds": [
+      1.507676,
+      1.590179
+    ],
+    "opponent_thinking_seconds": [
+      4.45653,
+      4.721781
+    ],
+    "result_file": "optimization-results/http-v1/v1-seed1009-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  },
+  {
+    "opponent": "v1",
+    "seed": "2027",
+    "bb_per_deal": 1.279,
+    "ci95": [
+      0.7117470141423983,
+      1.8462529858576016
+    ],
+    "thinking_seconds": [
+      0.831559,
+      0.821931
+    ],
+    "opponent_thinking_seconds": [
+      3.222533,
+      3.091075
+    ],
+    "result_file": "optimization-results/http-v1/v1-seed2027-deals1000.json",
+    "verdict": "AGENT1_WIN"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "official_starter_commit": "c83ab6eeb7660a2fd1fae7df224315d41fe985a9",
+  "runtime_sha256": {
+    "agent.py": "5b8f6ad64cb2782bd08ba75e3738e2231d4d6d5bdc19a43d34329abfec22611c",
+    "strategy.py": "251e9d0122c6d9ddaf4a232639b02b869df986318caae249151759b0989bf5c2",
+    "game.py": "06829231bf2a285279c42a2ab4228bb4a46e170a6398146c894111c05e3c61a2",
+    "evaluator.py": "02d784a0cdfe3be0a12dd69de54b322a0d350e5de45a8a98b9c99b7c987cb49e",
+    "requirements.txt": "0856178de835e1a79f8baef027be7a5a088475965a69a48ccff0421043983d65"
+  }
+}

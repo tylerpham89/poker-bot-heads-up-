@@ -1,0 +1,28 @@
+[
+  {
+    "opponent": "v1",
+    "seed": "1009",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 1.88,
+    "thinking_seconds": [
+      1.507676,
+      1.590179
+    ],
+    "reliable": true,
+    "result_file": "v1-seed1009-deals1000.json"
+  },
+  {
+    "opponent": "v1",
+    "seed": "2027",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 1.279,
+    "thinking_seconds": [
+      0.831559,
+      0.821931
+    ],
+    "reliable": true,
+    "result_file": "v1-seed2027-deals1000.json"
+  }
+]

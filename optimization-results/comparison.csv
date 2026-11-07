@@ -1,0 +1,11 @@
+opponent,seed,bb_per_deal,verdict,result_file
+always_half,42,10.799,AGENT1_WIN,optimization-results/http/always_half-seed42-deals1000.json
+always_half,7,10.667,AGENT1_WIN,optimization-results/http/always_half-seed7-deals1000.json
+always_pot,42,7.184,AGENT1_WIN,optimization-results/http/always_pot-seed42-deals1000.json
+always_pot,7,6.881,AGENT1_WIN,optimization-results/http/always_pot-seed7-deals1000.json
+calling_station,42,12.425,AGENT1_WIN,optimization-results/http/calling_station-seed42-deals1000.json
+calling_station,7,11.134,AGENT1_WIN,optimization-results/http/calling_station-seed7-deals1000.json
+random,42,6.8585,AGENT1_WIN,optimization-results/http/random-seed42-deals1000.json
+random,7,6.393,AGENT1_WIN,optimization-results/http/random-seed7-deals1000.json
+v1,1009,1.88,AGENT1_WIN,optimization-results/http-v1/v1-seed1009-deals1000.json
+v1,2027,1.279,AGENT1_WIN,optimization-results/http-v1/v1-seed2027-deals1000.json

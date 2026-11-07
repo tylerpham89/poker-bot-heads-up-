@@ -1,0 +1,106 @@
+[
+  {
+    "opponent": "random",
+    "seed": "7",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 6.393,
+    "thinking_seconds": [
+      1.259278,
+      0.983252
+    ],
+    "reliable": true,
+    "result_file": "random-seed7-deals1000.json"
+  },
+  {
+    "opponent": "random",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 6.8585,
+    "thinking_seconds": [
+      1.041688,
+      1.456013
+    ],
+    "reliable": true,
+    "result_file": "random-seed42-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "7",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 11.134,
+    "thinking_seconds": [
+      1.814913,
+      1.227964
+    ],
+    "reliable": true,
+    "result_file": "calling_station-seed7-deals1000.json"
+  },
+  {
+    "opponent": "calling_station",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 12.425,
+    "thinking_seconds": [
+      2.464709,
+      1.389243
+    ],
+    "reliable": true,
+    "result_file": "calling_station-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "7",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 10.667,
+    "thinking_seconds": [
+      1.4071,
+      2.039474
+    ],
+    "reliable": true,
+    "result_file": "always_half-seed7-deals1000.json"
+  },
+  {
+    "opponent": "always_half",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 10.799,
+    "thinking_seconds": [
+      0.905949,
+      0.787372
+    ],
+    "reliable": true,
+    "result_file": "always_half-seed42-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "7",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 6.881,
+    "thinking_seconds": [
+      1.21435,
+      1.068999
+    ],
+    "reliable": true,
+    "result_file": "always_pot-seed7-deals1000.json"
+  },
+  {
+    "opponent": "always_pot",
+    "seed": "42",
+    "deals": 1000,
+    "verdict": "AGENT1_WIN",
+    "bb_per_deal": 7.184,
+    "thinking_seconds": [
+      0.86748,
+      0.999171
+    ],
+    "reliable": true,
+    "result_file": "always_pot-seed42-deals1000.json"
+  }
+]

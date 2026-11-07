@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+.pytest_cache
+starter
+validation
+comparison-results
+archive-v1
+optimization-results
+.zig-cache
+*.zip
